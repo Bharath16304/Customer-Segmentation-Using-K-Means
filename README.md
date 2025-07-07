@@ -22,3 +22,6 @@ See `requirements.txt`.
 - `income`: Annual income  
 - `frequency`: Purchase frequency  
 - `spending`: Spending score  
+
+## Output
+See `Output Folder`
